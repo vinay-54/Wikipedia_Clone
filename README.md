@@ -50,20 +50,11 @@ wiki-finder/
 
 ---
 
-## 📸 Screenshots
-> *(Replace these with actual screenshots of your app)*
-
-### 🔍 Search Page
-![Search Screenshot](screenshots/search-page.png)
-
-### 📄 Results Page
-![Results Screenshot](screenshots/results.png)
-
 ---
 
 ## 🔗 Live Demo
 > *(Deploy via GitHub Pages and replace link below)*  
-[👉 Live Demo on GitHub Pages](https://vinay-54.github.io/wiki-finder)
+[👉 Live Demo](https://wikipediaclone-nine.vercel.app/)
 
 ---
 
